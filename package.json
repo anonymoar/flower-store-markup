@@ -1,0 +1,23 @@
+{
+  "name": "flower-store-markup",
+  "version": "1.0.0",
+  "description": "flower store markup",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minify": "css-minify -f ./styles/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonymoar/flower-store-markup.git"
+  },
+  "author": "anonymoar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonymoar/flower-store-markup/issues"
+  },
+  "homepage": "https://github.com/anonymoar/flower-store-markup#readme",
+  "dependencies": {
+    "css-minify": "^2.0.0"
+  }
+}
